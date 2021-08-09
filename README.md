@@ -13,6 +13,7 @@
 
 
 
+
  - $ gedit SomeWorld
  - #Copy this code
  - `<plugin name="welcome" filename="welcome.so"/>`
